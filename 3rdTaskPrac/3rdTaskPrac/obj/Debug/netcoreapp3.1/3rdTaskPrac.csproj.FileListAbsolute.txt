@@ -1,0 +1,11 @@
+C:\Users\fedqa\source\repos\3rdTaskPrac\3rdTaskPrac\bin\Debug\netcoreapp3.1\3rdTaskPrac.exe
+C:\Users\fedqa\source\repos\3rdTaskPrac\3rdTaskPrac\bin\Debug\netcoreapp3.1\3rdTaskPrac.deps.json
+C:\Users\fedqa\source\repos\3rdTaskPrac\3rdTaskPrac\bin\Debug\netcoreapp3.1\3rdTaskPrac.runtimeconfig.json
+C:\Users\fedqa\source\repos\3rdTaskPrac\3rdTaskPrac\bin\Debug\netcoreapp3.1\3rdTaskPrac.runtimeconfig.dev.json
+C:\Users\fedqa\source\repos\3rdTaskPrac\3rdTaskPrac\bin\Debug\netcoreapp3.1\3rdTaskPrac.dll
+C:\Users\fedqa\source\repos\3rdTaskPrac\3rdTaskPrac\bin\Debug\netcoreapp3.1\3rdTaskPrac.pdb
+C:\Users\fedqa\source\repos\3rdTaskPrac\3rdTaskPrac\obj\Debug\netcoreapp3.1\3rdTaskPrac.csprojAssemblyReference.cache
+C:\Users\fedqa\source\repos\3rdTaskPrac\3rdTaskPrac\obj\Debug\netcoreapp3.1\3rdTaskPrac.AssemblyInfoInputs.cache
+C:\Users\fedqa\source\repos\3rdTaskPrac\3rdTaskPrac\obj\Debug\netcoreapp3.1\3rdTaskPrac.AssemblyInfo.cs
+C:\Users\fedqa\source\repos\3rdTaskPrac\3rdTaskPrac\obj\Debug\netcoreapp3.1\3rdTaskPrac.dll
+C:\Users\fedqa\source\repos\3rdTaskPrac\3rdTaskPrac\obj\Debug\netcoreapp3.1\3rdTaskPrac.pdb
